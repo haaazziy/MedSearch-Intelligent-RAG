@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+.next/
+out/
+dist/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# RAG generated data
+data/processed/
+data/vectorstore/
+
+# Private uploaded documents
+data/uploads/
+
+# Model/cache files
+*.gguf
+*.bin
+*.safetensors
+
+# Temporary files
+tmp/
+temp/
+
+# Local medical data and vector databases
+data/chroma/
+data/uploads/
+data/processed/
+data/vectorstore/
+
+# Model artifacts
+*.pkl
+*.joblib
+
+# Screen recordings
+*.mov
+
+# Frontend build and dependencies
+frontend/node_modules/
+frontend/.next/
+
+# Backend virtual environment
+backend/.venv/
+
+# Local Chroma database
+data/chroma/

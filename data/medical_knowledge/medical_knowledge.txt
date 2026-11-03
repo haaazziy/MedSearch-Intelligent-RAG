@@ -1,0 +1,537 @@
+COMPLETE BLOOD COUNT (CBC)
+
+A complete blood count (CBC) is a common blood test that measures several components of blood.
+
+A CBC commonly includes red blood cell count, white blood cell count, hemoglobin, hematocrit, mean corpuscular volume (MCV), mean corpuscular hemoglobin (MCH), mean corpuscular hemoglobin concentration (MCHC), red cell distribution width (RDW), and platelet count.
+
+The meaning of an individual CBC result depends on the laboratory reference range and the person's clinical context.
+
+
+RED BLOOD CELLS
+
+Red blood cells carry oxygen from the lungs to tissues and transport carbon dioxide back toward the lungs.
+
+Red blood cell count measures the number of red blood cells in a specific volume of blood.
+
+Red blood cell results are commonly interpreted together with hemoglobin, hematocrit, and other CBC measurements.
+
+
+HEMATOCRIT
+
+Hematocrit represents the proportion of blood volume occupied by red blood cells.
+
+Hematocrit is commonly reported as a percentage.
+
+The laboratory reference range should be considered when interpreting a hematocrit result.
+
+
+MCV
+
+Mean corpuscular volume (MCV) describes the average size of red blood cells.
+
+MCV is commonly reported as part of a CBC.
+
+MCV results are often considered together with hemoglobin and other red blood cell measurements when evaluating blood-test patterns.
+
+
+MCH
+
+Mean corpuscular hemoglobin (MCH) represents the average amount of hemoglobin contained in a red blood cell.
+
+MCH is commonly included in a complete blood count.
+
+
+MCHC
+
+Mean corpuscular hemoglobin concentration (MCHC) describes the average concentration of hemoglobin within red blood cells.
+
+MCHC is commonly included in a complete blood count.
+
+
+RDW
+
+Red cell distribution width (RDW) describes variation in the size of red blood cells.
+
+RDW is commonly reported as part of a complete blood count.
+
+
+DIFFERENTIAL WHITE BLOOD CELL COUNT
+
+A white blood cell differential measures different types of white blood cells.
+
+Common types include neutrophils, lymphocytes, monocytes, eosinophils, and basophils.
+
+The differential may be reported as percentages, absolute counts, or both.
+
+
+NEUTROPHILS
+
+Neutrophils are a type of white blood cell involved in the immune response.
+
+Neutrophil results may be reported as a percentage or an absolute neutrophil count.
+
+Interpretation depends on the laboratory reference range and clinical context.
+
+
+LYMPHOCYTES
+
+Lymphocytes are white blood cells involved in immune system functions.
+
+Common lymphocyte types include B cells and T cells.
+
+A lymphocyte result can be reported as a percentage or absolute count.
+
+
+EOSINOPHILS
+
+Eosinophils are a type of white blood cell involved in immune responses.
+
+Eosinophil levels can be affected by different conditions and should be interpreted using the laboratory reference range and clinical context.
+
+
+MONOCYTES
+
+Monocytes are white blood cells that participate in immune responses and help remove damaged or foreign material.
+
+Monocyte results are commonly included in a white blood cell differential.
+
+
+BASOPHILS
+
+Basophils are a type of white blood cell involved in immune and inflammatory responses.
+
+Basophil results are generally reported as part of a white blood cell differential.
+
+
+ELECTROLYTES
+
+Electrolytes are minerals in body fluids that carry an electrical charge.
+
+Common blood electrolytes include sodium, potassium, chloride, and bicarbonate.
+
+Electrolytes are involved in fluid balance, nerve function, muscle function, and other physiological processes.
+
+
+SODIUM
+
+Sodium is an electrolyte that helps regulate fluid balance and supports nerve and muscle function.
+
+Blood sodium is commonly measured as part of a basic or comprehensive metabolic panel.
+
+A sodium result should be interpreted using the laboratory's reference range and clinical context.
+
+
+POTASSIUM
+
+Potassium is an electrolyte important for nerve signals, muscle function, and normal heart activity.
+
+Blood potassium is commonly measured as part of metabolic laboratory testing.
+
+Potassium results should be interpreted carefully using the laboratory reference range and clinical context.
+
+
+CHLORIDE
+
+Chloride is an electrolyte that contributes to fluid balance and acid-base regulation.
+
+Blood chloride is commonly included in metabolic panels.
+
+
+BICARBONATE
+
+Bicarbonate is involved in maintaining the body's acid-base balance.
+
+Blood bicarbonate or total carbon dioxide may be included in metabolic laboratory testing.
+
+
+CALCIUM
+
+Calcium is a mineral important for bones, muscles, nerves, and other body functions.
+
+Blood calcium can be measured as total calcium or, in certain situations, ionized calcium.
+
+Calcium results should be interpreted using the appropriate laboratory reference information.
+
+
+MAGNESIUM
+
+Magnesium is a mineral involved in nerve function, muscle function, and many biochemical processes.
+
+Blood magnesium may be measured when clinically indicated.
+
+
+THYROID TESTS
+
+Thyroid blood testing can provide information about thyroid function.
+
+Common thyroid tests include thyroid-stimulating hormone (TSH) and free thyroxine (free T4).
+
+The interpretation of thyroid tests depends on the individual results, laboratory reference ranges, and clinical context.
+
+
+TSH
+
+Thyroid-stimulating hormone (TSH) is produced by the pituitary gland and helps regulate thyroid activity.
+
+TSH is commonly used as part of thyroid function testing.
+
+A TSH result should be interpreted together with other relevant thyroid tests and clinical information when appropriate.
+
+
+FREE T4
+
+Free thyroxine (free T4) measures the unbound portion of thyroxine circulating in the blood.
+
+Free T4 may be measured together with TSH when evaluating thyroid function.
+
+
+IRON TESTS
+
+Iron-related laboratory testing can provide information about iron stores and iron transport.
+
+Common tests include serum iron, ferritin, total iron-binding capacity (TIBC), and transferrin saturation.
+
+These measurements should be interpreted together rather than relying on a single value.
+
+
+FERRITIN
+
+Ferritin is a protein that stores iron.
+
+Blood ferritin testing is commonly used to assess iron stores.
+
+Ferritin can also be affected by inflammation and other factors, so interpretation requires clinical context.
+
+
+VITAMIN B12
+
+Vitamin B12 is important for red blood cell production, neurological function, and other biological processes.
+
+A vitamin B12 blood test measures the amount of vitamin B12 in the blood.
+
+The result should be interpreted according to the laboratory reference range and clinical context.
+
+
+FOLATE
+
+Folate is a B vitamin involved in DNA synthesis and red blood cell production.
+
+Blood testing can be used to measure folate status when clinically appropriate.
+
+
+VITAMIN D
+
+Vitamin D is important for calcium absorption and bone health.
+
+The commonly measured blood marker is 25-hydroxyvitamin D.
+
+Vitamin D results should be interpreted using the laboratory reference range and clinical context.
+
+
+LIPID PANEL
+
+A lipid panel may include total cholesterol, LDL cholesterol, HDL cholesterol, and triglycerides.
+
+Lipid results are interpreted together with other health information rather than using one measurement alone.
+
+
+LDL CHOLESTEROL
+
+Low-density lipoprotein (LDL) cholesterol is one type of cholesterol-containing lipoprotein in the blood.
+
+LDL is commonly included in lipid testing.
+
+Interpretation depends on the person's overall clinical context and applicable medical guidance.
+
+
+HDL CHOLESTEROL
+
+High-density lipoprotein (HDL) cholesterol is one type of lipoprotein that transports cholesterol in the bloodstream.
+
+HDL is commonly measured as part of a lipid panel.
+
+
+TRIGLYCERIDES
+
+Triglycerides are a type of fat found in the blood.
+
+Triglycerides are commonly measured as part of a lipid panel.
+
+Results may be affected by factors including recent food intake, depending on how the test is performed.
+
+
+LIVER ENZYMES
+
+ALT and AST are enzymes commonly included in liver-related blood testing.
+
+ALP is another enzyme that may be measured during evaluation of liver or bile-duct-related processes.
+
+Enzyme results alone do not establish a diagnosis.
+
+
+BILIRUBIN
+
+Bilirubin is a substance produced when red blood cells are broken down.
+
+The liver processes bilirubin and helps remove it from the body.
+
+Blood bilirubin testing may include total bilirubin and, in some circumstances, direct and indirect measurements.
+
+
+ALBUMIN
+
+Albumin is a protein produced mainly by the liver.
+
+Blood albumin can provide information relevant to nutritional status, liver function, kidney-related protein loss, and other conditions.
+
+Albumin results require clinical context for interpretation.
+
+
+CREATININE
+
+Creatinine is a waste product produced by normal muscle metabolism.
+
+The kidneys normally filter creatinine from the blood.
+
+Blood creatinine is commonly used as part of kidney function assessment.
+
+
+eGFR
+
+Estimated glomerular filtration rate (eGFR) is an estimate of kidney filtration.
+
+eGFR is calculated using blood creatinine and other information.
+
+eGFR should be interpreted using the laboratory's reporting method and clinical context.
+
+
+BLOOD UREA NITROGEN
+
+Blood urea nitrogen (BUN) measures the amount of nitrogen in the blood that comes from urea.
+
+Urea is produced when the body processes proteins.
+
+BUN can be affected by kidney function, hydration, protein intake, and other factors.
+
+
+URINALYSIS
+
+A urinalysis can examine the physical, chemical, and microscopic characteristics of urine.
+
+It may include measurements or observations involving appearance, specific gravity, pH, protein, glucose, ketones, blood, bilirubin, nitrites, leukocyte esterase, cells, and other substances.
+
+
+URINE PROTEIN
+
+Protein can sometimes be detected in urine.
+
+The amount and persistence of protein in urine can be clinically relevant.
+
+Different urine tests may measure protein concentration or albumin more specifically.
+
+
+URINE GLUCOSE
+
+Glucose may be detected in urine under certain circumstances.
+
+Urine glucose is different from a blood glucose measurement and should not be treated as a direct replacement for blood glucose testing.
+
+
+URINE KETONES
+
+Ketones are substances produced when the body uses fat as an energy source.
+
+Ketones can be measured in urine or blood.
+
+The meaning of ketones depends on the person's circumstances and other clinical information.
+
+
+URINE SPECIFIC GRAVITY
+
+Urine specific gravity provides information about the concentration of urine.
+
+It reflects the relative concentration of dissolved substances in urine.
+
+
+URINE PH
+
+Urine pH measures how acidic or alkaline the urine is.
+
+Urine pH can vary because of diet, hydration, medications, and other factors.
+
+
+HbA1c
+
+Hemoglobin A1c, also called HbA1c, reflects average blood glucose levels over approximately the previous two to three months.
+
+HbA1c does not require fasting in the same way that a fasting blood glucose test does.
+
+Certain medical conditions can affect the reliability or interpretation of HbA1c.
+
+
+FASTING BLOOD GLUCOSE
+
+A fasting blood glucose test measures blood glucose after a specified period without eating.
+
+The exact fasting instructions should be provided by the healthcare professional or laboratory.
+
+Water may or may not be addressed separately in the laboratory's preparation instructions, so the provided test instructions should be followed.
+
+
+RANDOM BLOOD GLUCOSE
+
+A random blood glucose test measures blood glucose at a time that is not necessarily related to the last meal.
+
+The interpretation depends on the measured value and clinical context.
+
+
+BLOOD PRESSURE
+
+Blood pressure is the force of circulating blood against the walls of blood vessels.
+
+Blood pressure is commonly recorded using systolic and diastolic values.
+
+Systolic blood pressure represents pressure during heart contraction, while diastolic blood pressure represents pressure between heartbeats.
+
+Blood pressure measurements can vary with activity, stress, body position, and measurement technique.
+
+
+BODY TEMPERATURE
+
+Body temperature is a measurement of the body's temperature.
+
+Temperature can vary depending on the measurement method, time of day, activity, environment, and other factors.
+
+The method used to measure temperature should be considered when interpreting a reading.
+
+
+HEART RATE
+
+Heart rate is the number of heartbeats per minute.
+
+Heart rate can change with physical activity, emotions, temperature, medications, fitness level, and other factors.
+
+
+OXYGEN SATURATION
+
+Oxygen saturation estimates the percentage of hemoglobin carrying oxygen.
+
+A pulse oximeter can estimate oxygen saturation non-invasively.
+
+Readings can be affected by factors such as movement, poor circulation, device limitations, and measurement conditions.
+
+
+MEDICAL REPORT TERMINOLOGY
+
+"Reference range" refers to the range supplied by a laboratory for comparison with a test result.
+
+"Flagged result" generally means that a laboratory system has identified a result as outside its displayed reference range or otherwise requiring attention according to its reporting system.
+
+"High" or "H" commonly indicates that a result is above the displayed reference range.
+
+"Low" or "L" commonly indicates that a result is below the displayed reference range.
+
+"Normal" in a laboratory report generally refers to comparison with the displayed reference range and does not by itself establish overall health.
+
+
+TEST PREPARATION
+
+Some medical tests require preparation before the sample is collected.
+
+Preparation can include fasting, avoiding certain foods or drinks, timing the test at a particular time of day, avoiding strenuous activity, or following other laboratory instructions.
+
+Preparation requirements differ between tests.
+
+Patients should follow the instructions specifically provided for their test.
+
+
+FASTING
+
+Fasting generally means avoiding food for a specified period before a test.
+
+Fasting requirements vary by laboratory test.
+
+Do not assume that every blood test requires fasting.
+
+If fasting instructions are unclear, the appropriate laboratory or healthcare professional should be contacted before the test.
+
+
+MEDICATIONS AND LABORATORY TESTS
+
+Some medications and supplements can affect laboratory test results.
+
+Patients should not stop prescribed medication solely because of a planned laboratory test unless instructed by a qualified healthcare professional.
+
+The laboratory or healthcare professional should be informed about relevant medications and supplements when appropriate.
+
+
+LABORATORY UNITS
+
+Laboratory tests can be reported using different units.
+
+The same type of measurement may appear in different units depending on the laboratory and country.
+
+An AI system should preserve the exact units shown in a patient's report and should not silently convert or alter reported values.
+
+
+COMPARING MEDICAL REPORTS
+
+When comparing two medical reports, the dates of the tests should be considered.
+
+The same test may be reported using different reference ranges or units at different laboratories.
+
+A change in a laboratory value should be interpreted in relation to the test dates, laboratory methods, reference ranges, and clinical context.
+
+
+REPEATED LABORATORY TESTS
+
+A single laboratory result provides information at one point in time.
+
+Repeated measurements can show whether a value has changed over time.
+
+Trends should be interpreted carefully because differences can result from biological variation, laboratory variation, timing, medications, hydration, and other factors.
+
+
+MEDICAL DOCUMENT PRIVACY
+
+Medical reports can contain sensitive personal information.
+
+Documents uploaded to a medical AI system should be handled using appropriate privacy and security practices.
+
+Users should avoid sharing medical documents with systems they do not trust.
+
+
+AI MEDICAL ANSWERS
+
+An AI medical assistant should use retrieved evidence when answering medical questions.
+
+If relevant evidence is unavailable, the system should clearly state that sufficient evidence was not found.
+
+The system should not invent laboratory values, diagnoses, symptoms, medications, or treatment recommendations.
+
+An AI-generated explanation is not a substitute for professional medical evaluation.
+
+
+INSUFFICIENT EVIDENCE
+
+When available evidence does not contain enough information to answer a medical question, the system should say that the available evidence is insufficient.
+
+The system should not fill missing information using assumptions.
+
+For questions about a personal medical report, exact values should only be reported when those values are present in the uploaded report.
+
+
+GENERAL MEDICAL EDUCATION
+
+Medical information can help users understand common medical terms, laboratory tests, and health concepts.
+
+Educational information does not establish a diagnosis for a particular person.
+
+Personal medical decisions should be discussed with a qualified healthcare professional who can consider the complete clinical context.
+
+
+EMERGENCY INFORMATION
+
+An AI assistant should not be relied upon for emergency medical care.
+
+If someone experiences severe symptoms, sudden deterioration, difficulty breathing, severe chest pain, loss of consciousness, severe bleeding, or another potentially life-threatening situation, urgent medical attention should be sought.
