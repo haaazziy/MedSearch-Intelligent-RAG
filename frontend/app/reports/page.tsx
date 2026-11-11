@@ -51,7 +51,7 @@ interface LabRow {
   unit: string;
 }
 
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = process.env.NEXT_PUBLIC_API_URL ;
 
 export default function ReportsPage() {
   const [selectedFile, setSelectedFile] =
